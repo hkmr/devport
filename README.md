@@ -4,33 +4,33 @@
 
 
 ## Key Features
-✅ **User Authentication** – Secure signup/login with JWT & OAuth (GitHub, Google)  
-✅ **Portfolio Customization** – Personalize themes, layouts, and sections  
-✅ **Project Showcase** – Add projects with descriptions, tech stack, and live links  
-✅ **Skills & Experience** – Highlight expertise with proficiency levels and work history  
-✅ **Contact Integration** – Built-in contact form with email notifications
-✅ **Education** - Add educational background, degrees, and certifications
-✅ **Responsive & SEO-friendly** – Optimized for all devices and search engines
+✅ **User Authentication** – Secure signup/login with JWT & OAuth (GitHub, Google).   
+✅ **Portfolio Customization** – Personalize themes, layouts, and sections.   
+✅ **Project Showcase** – Add projects with descriptions, tech stack, and live links.   
+✅ **Skills & Experience** – Highlight expertise with proficiency levels and work history.   
+✅ **Contact Integration** – Built-in contact form with email notifications.   
+✅ **Education** - Add educational background, degrees, and certifications.   
+✅ **Responsive & SEO-friendly** – Optimized for all devices and search engines. 
 
 
 ## Additional Features
-✅ **Dashboard** - Personalized dashboard for managing portfolio content and tracking profile views.
-✅ **Media Uploads** - Support for uploading images, resumes, and other relevant files.
-✅ **Social Links** - Add links to GitHub, LinkedIn, Twitter, personal websites, etc.
-✅ **SEO Optimization** - Portfolios are optimized for search engines.
-✅ **Analytics** - Basic analytics on portfolio visits and engagement.
-✅ **Export Options** - Download portfolio as PDF or print-friendly format.
-✅ **Notifications** - Email notifications for profile updates, login alerts, etc.
-✅ **Privacy Controls** - Users can set sections as public or private.
+✅ **Dashboard** - Personalized dashboard for managing portfolio content and tracking profile views.  
+✅ **Media Uploads** - Support for uploading images, resumes, and other relevant files.  
+✅ **Social Links** - Add links to GitHub, LinkedIn, Twitter, personal websites, etc.  
+✅ **SEO Optimization** - Portfolios are optimized for search engines.  
+✅ **Analytics** - Basic analytics on portfolio visits and engagement.  
+✅ **Export Options** - Download portfolio as PDF or print-friendly format.  
+✅ **Notifications** - Email notifications for profile updates, login alerts, etc.  
+✅ **Privacy Controls** - Users can set sections as public or private.  
 
 
 ## Technology Stack
-✅ **Frontend** -	NextJS, Tailwind CSS, react-hook-form
-✅ **Backend** -	Node.js with NestJS
-✅ **Database** -	PostgreSQL
-✅ **Authentication** -	JWT, OAuth 2.0
-✅ **Hosting** -	AWS
-✅ **Storage** -	AWS S3
+✅ **Frontend** -	NextJS, Tailwind CSS, react-hook-form  
+✅ **Backend** -	Node.js with NestJS  
+✅ **Database** - PostgreSQL  
+✅ **Authentication** - JWT, OAuth 2.0   
+✅ **Hosting** -	AWS  
+✅ **Storage** -	AWS S3 
 
 
 ## API Endpoints
@@ -48,15 +48,19 @@
 
 
 ## Security Considerations
-✅ Passwords are hashed and never stored in plain text.
-✅ All sensitive endpoints require authentication.
-✅ Input validation and sanitization to prevent XSS/SQL injection.
-✅ HTTPS enforced for all data transmission.
+✅ Passwords are hashed and never stored in plain text.  
+✅ All sensitive endpoints require authentication.  
+✅ Input validation and sanitization to prevent XSS/SQL injection.  
+✅ HTTPS enforced for all data transmission.  
 
 
 ## Future Enhancements
-✅ **Custom Domain Support** - Allow users to connect their own domains.
-✅ **Team Portfolios** - Enable group portfolios for teams or organizations.
-✅ **Integrations** - Connect with third-party APIs (e.g., GitHub activity, blog feeds).
-✅ **Advanced Analytics** - In-depth traffic and engagement stats.
-✅ **AI Suggestions** - Recommend skills or projects to add based on user profile.
+✅ **Custom Domain Support** - Allow users to connect their own domains.  
+✅ **Team Portfolios** - Enable group portfolios for teams or organizations.  
+✅ **Integrations** - Connect with third-party APIs (e.g., GitHub activity, blog feeds).  
+✅ **Advanced Analytics** - In-depth traffic and engagement stats.  
+✅ **AI Suggestions** - Recommend skills or projects to add based on user profile. 
+
+## Screenshots
+
+**coming soon**
