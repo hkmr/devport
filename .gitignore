@@ -1,0 +1,37 @@
+# Node dependencies for all subprojects
+**/node_modules/
+
+# Build output for Next.js (frontend)
+frontend/.next/
+frontend/out/
+
+# Build output for NestJS (backend)
+backend/dist/
+
+# Test coverage for both projects
+**/coverage/
+**/.nyc_output/
+
+# Environment variables for both projects
+**/.env
+**/.env.*
+**/ormconfig.json
+
+# Logs
+**/logs/
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Miscellaneous
+*.local
